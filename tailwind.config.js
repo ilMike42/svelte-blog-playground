@@ -2,7 +2,7 @@ import daisyui from "daisyui";
 
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./src/routes/**/*.{svelte,js,ts}'],
+  content: ['./src/**/*.{svelte,js,ts}'],
   theme: {
     extend: {},
   },

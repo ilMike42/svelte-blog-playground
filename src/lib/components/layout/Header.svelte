@@ -20,7 +20,7 @@
 		</Button>
 	</div>
 	<div class="navbar-center">
-		<!-- <a class="btn btn-ghost text-xl">daisyUI</a> -->
+		 <Button class="text-xl" variant="ghost" href="/">Blog</Button>
 	</div>
 	<div class="navbar-end">
 		<Button variant="ghost" size="circle">

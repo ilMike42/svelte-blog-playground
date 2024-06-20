@@ -13,6 +13,8 @@ const buttonVariants = tv({
 			accent: "btn-accent",
 			ghost: "btn-ghost",
 			link: "btn-link",
+
+		// 	TODO: add missing button variants
 		},
 		size: {
 			default: "h-10 px-4 py-2",

@@ -13,7 +13,7 @@
 	export { className as class };
 </script>
 
-<div class={cn('navbar bg-base-100 mb-40 shadow-xl rounded-box', className)}>
+<div class={cn('navbar bg-base-100 shadow-xl rounded-box', className)}>
 	<div class="navbar-start">
 		<Button variant="ghost" size="circle">
 			<Menu />

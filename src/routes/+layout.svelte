@@ -6,9 +6,9 @@
 </script>
 
 <div class="flex flex-col min-h-screen">
-	<Header class="px-12 mt-4"></Header>
+	<Header class="sticky top-0"></Header>
 	<slot />
-	<Footer class="mt-auto w-full bg-red-300"> 
-		<span class="text-black">Footer</span>	 
+	<Footer class="mt-auto w-full bg-red-300">
+		<span class="text-black">Footer</span>
 	</Footer>
 </div>
